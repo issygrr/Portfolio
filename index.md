@@ -10,13 +10,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 # Projects
 ### Pirate's Greed: Unreal Engine 4
-https://github.com/issygrr/PirateGreed
+[https://github.com/issygrr/PirateGreed](https://github.com/issygrr/PirateGreed)
 ### Cupids Game: Unity 3D
-https://github.com/issygrr/Cupid-Game
+[https://github.com/issygrr/Cupid-Game](https://github.com/issygrr/Cupid-Game)
 ### Fridge Invaders: Unity 3D
-https://github.com/issygrr/Fridge-Invaders-project
+[https://github.com/issygrr/Fridge-Invaders-project](https://github.com/issygrr/Fridge-Invaders-project)
 ### Smart Tank: Artifical Intelligence for Simulation Project
-https://github.com/issygrr/AI-Simulation
+[https://github.com/issygrr/AI-Simulation](https://github.com/issygrr/AI-Simulation)
 ```markdown
 Syntax highlighted code block
 
