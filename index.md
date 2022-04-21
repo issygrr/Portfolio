@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-
+## About Me
+### My name is Isabelle Graselli
 You can use the [editor on GitHub](https://github.com/issygrr/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -8,6 +8,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Projects
+### Pirate's Greed: Unreal Engine 4
+
+### Cupids Game: Unity 3D
+
+### Fridge Invaders: Unity 3D
+
+### Smart Tank: Artifical Intelligence for Simulation Project
 ```markdown
 Syntax highlighted code block
 
